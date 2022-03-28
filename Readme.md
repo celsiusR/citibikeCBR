@@ -1,5 +1,5 @@
 # Citi Bikes Analysis
-## The story for this visulaization is - 
+## The story for this visualization is - 
 https://public.tableau.com/app/profile/celsius.b.rebello/viz/Celsius-01-BikeRideStory/Story2?publish=yes
 ## Overview
 
